@@ -18,5 +18,11 @@ As shown in the summary tables below, there are three key differences in weather
 ## Summary
 
 All in all, both June and December temprature didn't seem to have too much of a difference and both are suitable for opening up a surf shop. I also performed two additional queries on precipation data on June and December, respectively. 
+
 ![](https://github.com/lu-chang-axonic/surfs_up/blob/main/June%20Precipitation.PNG)
 ![](https://github.com/lu-chang-axonic/surfs_up/blob/main/Dec%20Precipitation.PNG)
+
+For precipitation:
+* There are more data points in June than in December.
+* Maximum precipation in December is higher than June, 
+* Standard Deviation in December is greater than that of June, indicating that there is more of a divergence in precipitations during the month of December. 
