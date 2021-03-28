@@ -1,4 +1,4 @@
-# surfs_up
+
 <h1 align="center">Surfs Up Weather Data Statistical Analysis</h1>
 
 ## Overview
